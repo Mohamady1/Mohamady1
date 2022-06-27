@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Omar Ahmed Mohamady
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning android development
+- 💻 I have skills in front-end web development
