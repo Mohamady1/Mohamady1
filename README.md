@@ -1,4 +1,4 @@
-### Hi there 👋
+### Omar Ahmed Mohamady, Hi there 👋
 
 <!--
 **Mohamady1/Mohamady1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
