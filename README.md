@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed Mohamady</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Application Developer (React Native)**
+- 🌱 I’m currently learning **Application Developer**
 
 - 👨‍💻 All of my projects are available at [mohamady-portfolio](https://mohamady-portfolio.netlify.app/)
 
