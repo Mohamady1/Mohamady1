@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed Mohamady</h1>
 <h3 align="center">Front-End & Application Developer | ReactJS & React Native</h3>
 
-- 🌱 I’m currently learning **Application Developement**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [mohamady-portfolio](https://mohamady-portfolio.netlify.app/)
 
