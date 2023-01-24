@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed Mohamady</h1>
-<h3 align="center">Mobile Developer | React Native</h3>
+<h3 align="center">Mobile Developer | React Native & Flutter</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning NodeJS<br>
