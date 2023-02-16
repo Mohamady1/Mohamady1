@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer | React Native & Flutter</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning NodeJS<br>
+🌱 I’m currently working on Easy Business App<br>
 👨‍💻 All of my projects are available at [mohamady-portfolio](https://mohamady-portfolio.netlify.app/)<br>
 📫Reach me on **omar2003a@msn.com**<br>
 
